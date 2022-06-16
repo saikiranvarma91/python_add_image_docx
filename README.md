@@ -19,3 +19,9 @@ obj.add_image_to_doc(heading="My Third Image",image_url="pic/03.PNG")
 obj.add_image_to_doc(heading="My Fourth Image",image_url="pic/04.PNG")
 obj.save_doc("./reports/test.docx")
 </pre>
+
+<br/>
+<strong>Output:</strong>
+<p>
+See test2.docx in repository. 
+</p>

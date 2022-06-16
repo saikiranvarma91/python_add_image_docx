@@ -59,3 +59,6 @@ class GenerateScreenDoc:
 		assert len(file_name)>0,"File name should not be empty" 
 		self.doc.save(file_name)
 
+
+		
+		

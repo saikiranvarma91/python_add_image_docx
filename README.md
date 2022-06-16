@@ -8,7 +8,15 @@ This module helps in generating python selenium screenshot doc report.
  </ul>  
 </p>
 <br/>
-<strong>How to use it:</strong>
+<p>
+ <strong>Pre Requirements :</strong> 
+<ol>
+ <li>Install python-docx module by running below command</li>
+ <li>pip install python-docx</li>
+</ol>
+
+</p> 
+<strong>How to use it :</strong>
 <pre>
 from generate_screen_doc import GenerateScreenDoc
 

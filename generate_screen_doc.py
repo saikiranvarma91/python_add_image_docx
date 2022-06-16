@@ -1,3 +1,6 @@
+# Developed by Saikiran Mekala
+# email: mskvarma2020@gmail.com
+# mobile: 9951456791
 # Install python-docx module by running below command 
 # pip install python-docx
 import docx
